@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'protected_attributes'
+
 gem 'bcrypt'
 gem 'gmaps4rails'
-gem 'bootstrap-sass'
+gem 'bootstrap-sass',  '3.2.0.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'
 # Use sqlite3 as the database for Active Record
